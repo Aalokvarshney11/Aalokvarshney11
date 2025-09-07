@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.gif" alt="Aalok Varshney - Header GIF" width="820" />
+  <img src="assets/header.gif" alt="Aalok Varshney - Header GIF" width="920" />
 </p>
 
 # 👋 Hi, I'm Aalok Varshney!  
