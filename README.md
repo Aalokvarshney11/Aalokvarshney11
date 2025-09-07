@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aalok Varshney!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aalokvarshney11&style=for-the-badge&color=blue)  
-![Followers](https://img.shields.io/github/followers/Aalokvarshney11?style=for-the-badge)  
-![Stars](https://img.shields.io/github/stars/Aalokvarshney11?style=for-the-badge)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aalokvarshney11&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aalokvarshney11?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Aalokvarshney11?label=Stars&style=flat-square&color=ff69b4" alt="Stars" />
+</p>
 
 ---
 
@@ -24,9 +26,13 @@
 
 ## 📊 GitHub Stats  
 
-![Aalok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aalokvarshney11&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aalokvarshney11&show_icons=true&theme=tokyonight" alt="stats" />
+</p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalokvarshney11&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalokvarshney11&layout=compact&theme=tokyonight" alt="langs" />
+</p>  
 
 ---
 
@@ -39,10 +45,13 @@
 
 ## 🤝 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aalokvarshney11-black?style=for-the-badge&logo=github)](https://github.com/Aalokvarshney11)  
-  
-[![Instagram](https://img.shields.io/badge/Instagram-aalok.varshney-pink?style=for-the-badge&logo=instagram)](https://instagram.com)  
+<p align="center">
+  <a href="https://github.com/Aalokvarshney11"><img src="https://img.shields.io/badge/GitHub-Aalokvarshney11-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" /></a>
+</p>
 
 ---
 
 ⭐️ From [Aalokvarshney11](https://github.com/Aalokvarshney11)
+
