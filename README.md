@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/header.gif" alt="Aalok Varshney - Header GIF" width="720" />
+</p>
+
+# 👋 Hi, I'm Aalok Varshney!
+
+
+
 # 👋 Hi, I'm Aalok Varshney!  
 
 <p align="center">
