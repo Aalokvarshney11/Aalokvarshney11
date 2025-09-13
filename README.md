@@ -43,7 +43,7 @@
 ## 🌟 Featured Projects  
 
 - 🎮 [Rock Paper Scissors (Python)](https://github.com/Aalokvarshney11/rock-paper-scissors)  
-- 📘 Add more of your cool repos here…  
+- 🤖 [Jarvis.AI (Python)](https://github.com/Aalokvarshney11/Jarvis.Ai.git)
 
 ---
 
